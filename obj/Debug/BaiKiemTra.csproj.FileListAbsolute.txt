@@ -1,0 +1,15 @@
+C:\Users\RichKid\source\repos\LeToanBan_2280600252\BaiKiemTra\bin\Debug\BaiKiemTra.exe.config
+C:\Users\RichKid\source\repos\LeToanBan_2280600252\BaiKiemTra\bin\Debug\BaiKiemTra.exe
+C:\Users\RichKid\source\repos\LeToanBan_2280600252\BaiKiemTra\bin\Debug\BaiKiemTra.pdb
+C:\Users\RichKid\source\repos\LeToanBan_2280600252\BaiKiemTra\obj\Debug\BaiKiemTra.csproj.AssemblyReference.cache
+C:\Users\RichKid\source\repos\LeToanBan_2280600252\BaiKiemTra\obj\Debug\BaiKiemTra.Form1.resources
+C:\Users\RichKid\source\repos\LeToanBan_2280600252\BaiKiemTra\obj\Debug\BaiKiemTra.Properties.Resources.resources
+C:\Users\RichKid\source\repos\LeToanBan_2280600252\BaiKiemTra\obj\Debug\BaiKiemTra.csproj.GenerateResource.cache
+C:\Users\RichKid\source\repos\LeToanBan_2280600252\BaiKiemTra\obj\Debug\BaiKiemTra.csproj.CoreCompileInputs.cache
+C:\Users\RichKid\source\repos\LeToanBan_2280600252\BaiKiemTra\obj\Debug\BaiKiemTra.exe
+C:\Users\RichKid\source\repos\LeToanBan_2280600252\BaiKiemTra\obj\Debug\BaiKiemTra.pdb
+C:\Users\RichKid\source\repos\LeToanBan_2280600252\BaiKiemTra\bin\Debug\EntityFramework.dll
+C:\Users\RichKid\source\repos\LeToanBan_2280600252\BaiKiemTra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RichKid\source\repos\LeToanBan_2280600252\BaiKiemTra\bin\Debug\EntityFramework.xml
+C:\Users\RichKid\source\repos\LeToanBan_2280600252\BaiKiemTra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RichKid\source\repos\LeToanBan_2280600252\BaiKiemTra\obj\Debug\BaiKiemTra.csproj.Up2Date
